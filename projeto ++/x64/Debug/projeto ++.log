@@ -1,0 +1,3 @@
+﻿  projeto ++.cpp
+G:\C++\projeto ++\projeto ++\projeto ++.cpp(275): warning C4715: 'selecionarProduto': not all control paths return a value
+  projeto ++.vcxproj -> G:\C++\projeto ++\x64\Debug\projeto ++.exe
